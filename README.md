@@ -41,8 +41,8 @@ Je transforme des données brutes en outils utiles — pipelines fiables, dashbo
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🏥 **clinical-data-pipeline** | Pipeline de contrôle qualité sur données cliniques (études de phase II, 350 patients) | Python, SQL, PostgreSQL |
-| 📊 **research-dashboard** | Tableaux de bord pour le pilotage de la production scientifique via HAL & OpenAlex | Python, API REST, Streamlit |
+| 🏥 **clinical-data-pipeline** | Pipeline de contrôle qualité sur données cliniques (études de phase II, 350 patients) | Python |
+| 📊 **research-dashboard** | Tableaux de bord pour le pilotage de la production scientifique  | Python, REST, Streamlit |
 | [🗺️ trail-map](https://github.com/faltawer/Trail-Map-app)| Visualiseur de traces GPS et générateur de poster trophée (GPX/FIT) — compatible exports Strava, Garmin, Suunto | Python, Tkinter, Pillow, GPXpy |
 | 🎴 **[Faraway-analyze](https://github.com/faltawer/Faraway_analyze)** | Moteur IA pour le jeu de cartes FARAWAY — simulation de parties, agents stratégiques (Greedy, Lookahead, Q-learning) et apprentissage par renforcement autonome | Python, Q-learning, Monte Carlo |
 
