@@ -44,7 +44,7 @@ Je transforme des données brutes en outils utiles — pipelines fiables, dashbo
 | [📊 **Oncology Analysis**](https://github.com/faltawer/oncology_analysis) | Pipeline de contrôle qualité sur données cliniques (études de phase II, 350 patients)/ Tableaux de bord pour le pilotage de la production scientifique  | Python, Streamlit |
 | [🗺️ trail-map](https://github.com/faltawer/Trail-Map-app)| Visualiseur de traces GPS et générateur de poster trophée (GPX/FIT) — compatible exports Strava, Garmin, Suunto | Python, Tkinter, Pillow, GPXpy |
 | 🎴 **[Faraway-analyze](https://github.com/faltawer/Faraway_analyze)** | Moteur IA pour le jeu de cartes FARAWAY — simulation de parties, agents stratégiques (Greedy, Lookahead, Q-learning) et apprentissage par renforcement autonome | Python, Q-learning, Monte Carlo |
-| 📸 **Untitled Folder 47** | Organisateur rapide de sessions photo sur desktop basé sur Python + Tkinter. Regroupe les photos par date, prévisualise instantanément les images/RAW, renomme proprement les sessions et peut déplacer les dossiers finalisés vers une archive. Conçu pour les photographes qui importent des cartes SD désorganisées et veulent un workflow rapide de tri et d’organisation manuelle. | Python, Tkinter |
+| [📸 **Untitled Folder 47**](https://github.com/faltawer/rename_photo) | Organisateur rapide de sessions photo sur desktop basé sur Python + Tkinter. Regroupe les photos par date, prévisualise instantanément les images/RAW, renomme proprement les sessions et peut déplacer les dossiers finalisés vers une archive. Conçu pour les photographes qui importent des cartes SD désorganisées et veulent un workflow rapide de tri et d’organisation manuelle. | Python, Tkinter |
 
 ---
 
