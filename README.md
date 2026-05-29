@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Flo
+# 👋 Salut, moi c'est Florian
 
 Data Analyst & Photographe basé à Grenoble 🏔️  
 Je transforme des données brutes en outils utiles — pipelines fiables, dashboards clairs, analyses qui servent vraiment.
